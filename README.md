@@ -85,7 +85,7 @@ Special thanks to the **Data Tutorials** YouTube channel for guidance and inspir
 
 ## 📸 Dashboard Preview
 
-!<img width="1168" height="692" alt="image" src="https://github.com/user-attachments/assets/52d27372-b641-452b-a511-890cb411f01d" />
+<img width="1168" height="692" alt="image" src="https://github.com/user-attachments/assets/52d27372-b641-452b-a511-890cb411f01d" />
 
 
 ---
